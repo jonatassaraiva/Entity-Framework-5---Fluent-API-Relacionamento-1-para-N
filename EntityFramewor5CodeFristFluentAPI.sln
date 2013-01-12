@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramewor5CodeFristFluentAPI", "EntityFramewor5CodeFristFluentAPI\EntityFramewor5CodeFristFluentAPI.csproj", "{D49D2CFF-C63A-4202-9862-06A38276B6CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramewor5CodeFristFluentAPI.Testes", "EntityFramewor5CodeFristFluentAPI.Testes\EntityFramewor5CodeFristFluentAPI.Testes.csproj", "{19D4116E-F0C1-4ECD-AFD5-04098D3122DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D49D2CFF-C63A-4202-9862-06A38276B6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49D2CFF-C63A-4202-9862-06A38276B6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49D2CFF-C63A-4202-9862-06A38276B6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49D2CFF-C63A-4202-9862-06A38276B6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D4116E-F0C1-4ECD-AFD5-04098D3122DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D4116E-F0C1-4ECD-AFD5-04098D3122DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D4116E-F0C1-4ECD-AFD5-04098D3122DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D4116E-F0C1-4ECD-AFD5-04098D3122DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
