@@ -23,3 +23,5 @@ CREATE TABLE [dbo].[Posts] (
     REFERENCES [dbo].[Blogs] ([Id]) ON DELETE CASCADE
 );
 ```
+* Execute o teste CriarPost do projeto de teste
+
