@@ -2,8 +2,8 @@ Entity-Framework-5---Fluent-API-Relacionamento-1-para-N
 =======================================================
 
 Exemplo do post "Entity Framework 5 - Fluent API Relacionamento 1 para N"
-*Crie o banco, BancoBlog
-*Execute os script
+* Crie o banco, BancoBlog
+* Execute os script
 ```
 CREATE TABLE [dbo].[Blogs] (
     [Id] INT IDENTITY (1, 1) NOT NULL,
