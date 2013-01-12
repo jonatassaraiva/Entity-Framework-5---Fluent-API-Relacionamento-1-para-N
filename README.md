@@ -18,6 +18,7 @@ CREATE TABLE [dbo].[Posts] (
     [Conteudo] NTEXT NULL,
     [BlogId] INT NOT NULL,
     CONSTRAINT [PK_dbo.Posts] PRIMARY KEY CLUSTERED ([Id] ASC),
-    CONSTRAINT [FK_dbo.Posts_dbo.Blogs_BlogId] FOREIGN KEY ([BlogId]) REFERENCES [dbo].[Blogs] ([Id]) ON DELETE CASCADE
+    CONSTRAINT [FK_dbo.Posts_dbo.Blogs_BlogId] FOREIGN KEY ([BlogId]) 
+    REFERENCES [dbo].[Blogs] ([Id]) ON DELETE CASCADE
 );
 ```
